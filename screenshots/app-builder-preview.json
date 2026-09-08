@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "blu-BGS Neon Overlay Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 565,
+      "bodyTextHash": "c3cce542ec779d1a3d64a471d7360f88f114101169f28ab290eb8ea73fdbf4b1",
+      "bodyTextPrefix": "BLU-BGS NEON OVERLAY STUDIO Dashboard Designer Library Presets A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "blu-BGS Neon Overlay Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 515,
+      "bodyTextHash": "875cabd040825df40af1ec864b2c8b0cd4e024d2ef7d625c31f893ed05a320e2",
+      "bodyTextPrefix": "BLU-BGS STUDIO Dashboard Design transparent neon overlays for OB",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
